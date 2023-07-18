@@ -1,0 +1,9 @@
+com\mycompany\blackjack\base\Baralho.class
+com\mycompany\blackjack\base\Carta.class
+com\mycompany\blackjack\modelo\Dealer.class
+com\mycompany\blackjack\modelo\Baralho21.class
+com\mycompany\blackjack\io\IO.class
+com\mycompany\blackjack\base\Jogador.class
+com\mycompany\blackjack\modelo\Player.class
+com\mycompany\blackjack\BlackJack.class
+com\mycompany\blackjack\modelo\Cartas21.class
